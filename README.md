@@ -18,11 +18,18 @@ WordPress core development moves a bit slower with some enhancements. We will ad
 ### Allow developers to define as much settings as possible in wp-config.php
 Too many plugins have only wp-admin settings pages. We believe that most of the settings belong into code rather than the database.
 
+### WordPress shouldn't install or contain unneccessary example data
+* Core installation should create minimal amount of content
+* Plugins shouldn't have example content when possible
+
 ## Requirements
 * >= PHP 7.0
 * WordPress
 * Redis server for object caching
 * Use composer to update your site rather than using WordPress auto updates
+
+## Maintainers
+[Onni Hakala](https://github.com/onnimonni)
 
 ## License
 Respect the licenses of used libraries.
