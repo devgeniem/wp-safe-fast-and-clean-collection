@@ -1,5 +1,5 @@
 {
-  "name": "devgeniem/wp-safe-and-clean",
+  "name": "devgeniem/wp-safe-fast-and-clean-collection",
   "type": "metapackage",
   "license": "MIT",
   "description": "This is a composer metapackage which includes WordPress plugins that make your site safer, faster and cleaner.",
@@ -8,7 +8,8 @@
     {
       "name": "Onni Hakala",
       "email": "onni.hakala@geniem.com",
-      "homepage": "https://github.com/onnimonni"
+      "homepage": "https://github.com/onnimonni",
+      "role": "maintainer"
     }
   ],
   "keywords": [
