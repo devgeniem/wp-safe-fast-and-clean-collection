@@ -41,6 +41,22 @@ Too many plugins have only wp-admin settings pages. We believe that most of the 
 * Redis server for object caching
 * Use composer to update your site rather than using WordPress auto updates
 
+### Composer.json settings
+For correct installation your project should define following installation paths in `extra section:
+```
+extra: {
+    "installer-paths": {
+      "web/app/mu-plugins/{$name}/": ["type:wordpress-muplugin"],
+      "web/app/plugins/{$name}/": ["type:wordpress-plugin"]
+    },
+    "dropin-paths": {
+      "web/app/": ["type:wordpress-dropin"]
+    }
+}
+```
+
+We use bedrock styled names for `wp-content`. Replace `web/app` according for your project.
+
 ## Maintainers
 [Onni Hakala](https://github.com/onnimonni)
 
