@@ -4,9 +4,8 @@
 
 This is plugin and dropin collection which is intended as an alias to multiple other plugins.
 
-It helps us to auto update and add small features to multiple projects with `composer update`. We just include this collection into our composer.json and stick to the guidelines about which plugins should be here. WordPress evolves with time and some plugins will propably be pointless at some point, if that happens we will remove unneccessary plugins.
-
-This repository is maintained.
+## Reasons
+This package was created to handle multiple projects with `composer update`. We just include this collection into our `composer.json` and stick to the guidelines about which plugins should be included here. WordPress evolves with time and some plugins will propably be pointless at some point, if that happens we will remove those unneccessary plugins.
 
 ## Installation
 ```
