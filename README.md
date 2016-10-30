@@ -1,5 +1,5 @@
 ![geniem-github-banner](https://cloud.githubusercontent.com/assets/5691777/14319886/9ae46166-fc1b-11e5-9630-d60aa3dc4f9e.png)
-# WordPress Dropin & Plugin Collection: Safe Fast & Clean
+# WordPress Dropin & Plugin Collection: Safe, Fast & Clean WordPress
 [![Latest Stable Version](https://poser.pugx.org/devgeniem/wp-sanitize-accented-uploads/v/stable)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection) [![Total Downloads](https://poser.pugx.org/devgeniem/wp-safe-fast-and-clean-collection/downloads)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection) [![Latest Unstable Version](https://poser.pugx.org/devgeniem/wp-safe-fast-and-clean-collection/v/unstable)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection) [![License](https://poser.pugx.org/devgeniem/wp-safe-fast-and-clean-collection/license)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection)
 
 This is plugin and dropin collection which is intended as an alias to multiple other plugins.
