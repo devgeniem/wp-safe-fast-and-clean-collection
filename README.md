@@ -44,5 +44,8 @@ Too many plugins have only wp-admin settings pages. We believe that most of the 
 ## Maintainers
 [Onni Hakala](https://github.com/onnimonni)
 
+## Changelog
+[See the included CHANGELOG.md](CHANGELOG.md)
+
 ## License
 Respect the licenses of used libraries. This readme and composer are licensed under MIT
