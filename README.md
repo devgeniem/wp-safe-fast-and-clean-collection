@@ -2,7 +2,7 @@
 # WordPress Dropin & Plugin Collection: Safe, Fast & Clean WordPress
 [![Latest Stable Version](https://poser.pugx.org/devgeniem/wp-sanitize-accented-uploads/v/stable)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection) [![Total Downloads](https://poser.pugx.org/devgeniem/wp-safe-fast-and-clean-collection/downloads)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection) [![Latest Unstable Version](https://poser.pugx.org/devgeniem/wp-safe-fast-and-clean-collection/v/unstable)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection) [![License](https://poser.pugx.org/devgeniem/wp-safe-fast-and-clean-collection/license)](https://packagist.org/packages/devgeniem/wp-safe-fast-and-clean-collection)
 
-This is plugin and dropin collection which is intended as an alias to multiple other plugins.
+This is WordPress plugin and dropin collection which enhances WordPress in multiple ways.
 
 ## Reasons
 This package was created to handle multiple projects with `composer update`. We just include this collection into our `composer.json` and stick to the guidelines about which plugins should be included here. WordPress evolves with time and some plugins will propably be pointless at some point, if that happens we will remove those unneccessary plugins.
