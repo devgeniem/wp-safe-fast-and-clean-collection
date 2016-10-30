@@ -1,0 +1,20 @@
+{
+  "name": "devgeniem/wp-safe-and-clean",
+  "type": "metapackage",
+  "license": "MIT",
+  "description": "This is a composer metapackage which includes WordPress plugins that make your site safer, faster and cleaner.",
+  "homepage": "http://geniem.com",
+  "authors": [
+    {
+      "name": "Onni Hakala",
+      "email": "onni.hakala@geniem.com",
+      "homepage": "https://github.com/onnimonni"
+    }
+  ],
+  "keywords": [
+    "wordpress", "library","safe","fast","clean"
+  ],
+  "require": {
+    "johnpbloch/wordpress": ">=4.6.0"
+  }
+}
