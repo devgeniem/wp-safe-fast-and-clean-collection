@@ -46,4 +46,4 @@ Too many plugins have only wp-admin settings pages. We believe that most of the 
 [Onni Hakala](https://github.com/onnimonni)
 
 ## License
-Respect the licenses of used libraries.
+Respect the licenses of used libraries. This readme and composer are licensed under MIT
