@@ -42,7 +42,7 @@ Too many plugins have only wp-admin settings pages. We believe that most of the 
 * Use composer to update your site rather than using WordPress auto updates
 
 ### Composer.json settings
-For correct installation your project should define following installation paths in `extra section:
+For correct installation your project should define following installation paths in `extra` section:
 ```
 extra: {
     "installer-paths": {
