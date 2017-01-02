@@ -1,3 +1,6 @@
+# Version 1.0.2
+* Added `devgeniem/wp-core-fixes` to fix rss feeds in WordPress 4.7.
+
 # Version 1.0.1
 * Added `roots/wp-password-bcrypt` to make change default password hash to stronger one ( md5 -> brcypt ).
 
