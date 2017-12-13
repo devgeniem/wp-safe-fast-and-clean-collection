@@ -25,6 +25,8 @@
     "devgeniem/wp-sanitize-accented-uploads": "*",
     "devgeniem/wp-no-admin-ajax": "*",
     "devgeniem/wp-core-fixes": "*",
+    "devgeniem/wp-core-fixes": "*",
+    "devgeniem/wp-polylang-remove-ads": "*",
 
     "aucor/dynamic-mo-loader": "*",
     "roots/wp-password-bcrypt": "^1.0"
